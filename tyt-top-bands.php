@@ -33,13 +33,16 @@
                     'not_found_in_trash' => 'No Top Bands found in Trash',
                     'parent' => 'Parent Top Band'
                 ),
-    
+                'rewrite' => array( 
+                    'slug' => 'top-bands',
+                    'with_front' => false
+                ),
                 'public' => true,
                 'menu_position' => 15,
                 'supports' => array( 'title', 'thumbnail'),
                 'taxonomies' => array( '' ),
                 'menu_icon' => 'dashicons-format-audio',
-                'has_archive' => true
+                'has_archive' => false
             )
         );
     }
