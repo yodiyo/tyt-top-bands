@@ -107,7 +107,7 @@
             if ( is_single() ) {
                 // checks if the file exists in the theme first,
                 // otherwise serve the file from the plugin
-                if ( $theme_file = locate_template( array ( 'single-top-bands.php' ) ) ) {
+                if ( $theme_file = locate_template( array ( 'page_templates/single-top-bands.php' ) ) ) {
                     $template_path = $theme_file;
                 } else {
                     $template_path = plugin_dir_path( __FILE__ ) . '/single-top-bands.php';
