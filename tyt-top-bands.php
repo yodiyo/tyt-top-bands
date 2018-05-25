@@ -39,7 +39,7 @@
                 ),
                 'public' => true,
                 'menu_position' => 15,
-                'supports' => array( 'title', 'thumbnail'),
+                'supports' => array( 'thumbnail'),
                 'taxonomies' => array( '' ),
                 'menu_icon' => 'dashicons-format-audio',
                 'has_archive' => false
