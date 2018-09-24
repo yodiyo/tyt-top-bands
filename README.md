@@ -2,7 +2,7 @@
 
 This is a small project to become more familiar with creating custom post types and templates in WordPress, as well as interacting with an API. It was a great way to learn and fun, too, and opens up a treasure box of ways to build web apps using WordPress.
 
-I implemented the starter theme [Underslack](https://understrap.com/), which combines  _underscores with Bootstrap 4, both of which I’ve wanted to play with. 
+I implemented the starter theme [Understrap](https://understrap.com/), which combines  _underscores with Bootstrap 4, both of which I’ve wanted to play with. 
 
 I created a child theme to add styles and templates. I also used SASS, Gulp and Browsersync, for the first time (after using LESS and Grunt for a while).
 
