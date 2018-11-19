@@ -14,7 +14,7 @@ The data is supplied by [Songkick API](https://www.songkick.com/developer) with 
 
 Still to come:
 * Refined design, optimisation and gamification
-* In page form for adding bands
+* In-page form for adding bands
 * Create more fun info from data - eg number of festivals, number of times playing big venues, billing, and more
 
 You can simply add an artist and the data will be automatically generated from the APIs or you can add your own data.
