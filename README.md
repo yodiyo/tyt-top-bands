@@ -13,7 +13,7 @@ You can find a page of bands and artists here - [http://theyoricktouch.com/news
 The data is supplied by [Songkick API](https://www.songkick.com/developer) with relevant images from [Skiddle](https://www.skiddle.com/api/).
 
 Still to come:
-* Refined design and gamification
+* Refined design, optimisation and gamification
 * In page form for adding bands
 * Create more fun info from data - eg number of festivals, number of times playing big venues, billing, and more
 
